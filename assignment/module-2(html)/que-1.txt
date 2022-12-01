@@ -1,0 +1,32 @@
+Q-1. define the terms:website,webpage,web browser,web server,HTML,css.
+
+	website:
+		->website-everyday you visit on internet.
+		->follows some rules & regulations
+		->website-providing infoemation from anywhere in world
+
+	web page:
+		->A document which can be displayed ina web browser such as firefox ,
+			google chrome,opera...these are also often called pages.
+
+
+
+
+
+	web browser:
+		->web browsers are applications for displaying web pages.
+		->these include javascript,a scripting language.
+		->ex. chrome,edge,firefox,safari.
+
+	web server:
+		->a computer that hosts a website on the internet.
+
+
+
+	HTML:
+		-> html is a descriptive language that specifies webpage structure.
+
+	css:
+
+		->cascading style sheets
+		
